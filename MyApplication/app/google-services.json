@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944422874913",
+    "firebase_url": "https://sattve-75c01.firebaseio.com",
+    "project_id": "sattve-75c01",
+    "storage_bucket": "sattve-75c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944422874913:android:6c9f03166ad85ea5389860",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944422874913-nl5khkaoatuctnkh0h53o2c33rqsh18u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "c11f180aed6ec9489c92674db7bbaca4eb0a1a56"
+          }
+        },
+        {
+          "client_id": "944422874913-ruh47dlr03e0mvrqull2qskc4fmicb8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rwHrzQG-77R5OSWc3-wTl1_uEWoF5Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944422874913-ruh47dlr03e0mvrqull2qskc4fmicb8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
